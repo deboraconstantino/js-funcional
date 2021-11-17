@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/deboraconstantino/js-funcional#readme",
   "dependencies": {
-    "rxjs": "^7.4.0"
+    "rxjs": "^6.0.0",
+    "xmlhttprequest": "^1.8.0"
   }
 }
